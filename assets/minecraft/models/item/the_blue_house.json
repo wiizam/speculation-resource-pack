@@ -4,7 +4,7 @@
 	"textures": {
 		"particle": "item/the_blue_house",
 		"bluehouse": "item/the_blue_house",
-		"color": "item/color_render"
+		"color": "block/white_concrete"
 	},
 	"elements": [
 		{
