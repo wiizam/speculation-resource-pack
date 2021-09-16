@@ -27,12 +27,6 @@
         "custom_model_data": 5
       },
       "model": "item/purple_posco"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 6
-      },
-      "model": "item/purple_galleria"
     }
   ]
 }
