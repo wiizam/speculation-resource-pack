@@ -27,6 +27,12 @@
         "custom_model_data": 5
       },
       "model": "item/light_gray_posco"
-    }
+	},
+    {
+      "predicate": {
+        "custom_model_data": 7
+      },
+      "model": "item/light_gray_daege"
+	}
   ]
 }
