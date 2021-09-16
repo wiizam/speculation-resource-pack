@@ -1,17 +1,17 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"1": "eastseatex/blueblack",
-		"2": "eastseatex/traincolor",
-		"3": "eastseatex/lightgray",
-		"4": "eastseatex/sand",
-		"5": "eastseatex/ocean",
-		"6": "eastseatex/wood",
-		"7": "eastseatex/gray",
-		"8": "eastseatex/darkgray",
-		"9": "eastseatex/cerulean",
-		"10": "Pictures/eastsealogo",
-		"particle": "eastseatex/blueblack"
+		"1": "item/eastseatex/blueblack",
+		"2": "item/eastseatex/traincolor",
+		"3": "item/eastseatex/lightgray",
+		"4": "item/eastseatex/sand",
+		"5": "item/eastseatex/ocean",
+		"6": "item/eastseatex/wood",
+		"7": "item/eastseatex/gray",
+		"8": "item/eastseatex/darkgray",
+		"9": "item/eastseatex/cerulean",
+		"10": "item/eastseatex/eastsealogo",
+		"particle": "item/eastseatex/blueblack"
 	},
 	"elements": [
 		{
@@ -858,6 +858,11 @@
 	"display": {
 		"ground": {
 			"translation": [-0.5, 6.25, -0.5]
+		},
+		"fixed": {
+			"rotation": [-90, 0, 0],
+			"translation": [0, 0, -16],
+			"scale": [2, 2, 2]
 		}
 	},
 	"groups": [
