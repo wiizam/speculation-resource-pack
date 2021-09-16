@@ -7,11 +7,11 @@
 		"2": "item/non-mesh",
 		"3": "item/door_and_logo",
 		"4": "item/front_window",
-		"5": "item/purple",
+		"5": "block/purple_concrete",
 		"7": "item/side_window",
 		"8": "item/floor",
 		"9": "item/fence",
-		"10": "item/tree_color",
+		"10": "block/lime_concrete",
 		"particle": "item/base_color"
 	},
 	"elements": [

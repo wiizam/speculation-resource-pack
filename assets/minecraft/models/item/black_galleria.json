@@ -10,8 +10,8 @@
 		"7": "item/side_window",
 		"8": "item/floor",
 		"9": "item/fence",
-		"10": "item/tree_color",
-		"11": "item/black",
+		"10": "block/lime_concrete",
+		"11": "block/black_concrete",
 		"particle": "item/base_color"
 	},
 	"elements": [
