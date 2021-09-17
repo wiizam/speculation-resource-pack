@@ -3,7 +3,7 @@
 	"parent": "minecraft:block/gold_block",
 	"textures": {
 		"10": "block/white_concrete",
-		"12": "item/hoengseong/img (1)",
+		"12": "item/hoengseong/img",
 		"18": "item/hoengseong/color",
 		"2_0": "block/polished_blackstone_bricks",
 		"2_1": "item/hoengseong/gold",
