@@ -5,6 +5,7 @@
 2. 저장소에 적용 요청하기 (아래 방법중 택 1)
    * git을 이용해서 pull request
    * `monun1010@gmail.com` 메일로 json파일과 texture 파일 전송
+       * 메일에 모델 이미지를 보내주시면 매우 감사드리겠습니다!
 
 ## 규칙
 * 기업과 직접 관련된 랜드마크 금지
@@ -23,17 +24,17 @@
 채택된 제작자분께는 해당 콘텐츠에 크레딧을 남겨드립니다.
 
 ## 지역목록 (일부 제외 가능성 있음)
-* [봉화군](https://github.com/monun/speculation-resource-pack/blob/main/assets/minecraft/models/item/bonghwa.json) - 각별
+* 봉화군 - 각별(텍스쳐 도움 메닐)
 * 임실군
-* 영덕군 - sgkill6
+* 영덕군
 * 의성군
 * 예천군
 * 안동시
-* 횡성군
+* 횡성군 - sgkill6
 * 평창군
 * 보령시
-* 강화군
-* [동해시](https://github.com/monun/speculation-resource-pack/blob/main/assets/minecraft/models/item/eastsea.json) - zlfn
+* 강화군 - HGN0508
+* 동해시 - zlfn
 * 속초시
 * 태백시
 * 나주시
@@ -42,8 +43,9 @@
 * 당진시
 * 김포시
 * 세종시
-* 부산시
+* 부산시 - piese1028
 * 대전시
 * 인천시
 * 광주시
-* [서울시](https://github.com/monun/speculation-resource-pack/blob/main/assets/minecraft/models/item/the_blue_house.json) - obinox
+* 서울시 - obinox
+* 제주시 - 메닐
