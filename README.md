@@ -10,10 +10,12 @@
 ## 규칙
 * 기업과 직접 관련된 랜드마크 금지
 * 모델의 박스 40개 이하
-* 모델 파일 경로 `assets/minecraft/models/item/<랜드마크이름>/__landmark.json`
-* 텍스쳐 경로 `assets/minecraft/models/item/<랜드마크이름>/`
+* 모델 파일 경로 `assets/minecraft/models/item/<랜드마크이름>/<제작자>/__landmark.json`
+* 텍스쳐 경로 `assets/minecraft/models/item/<랜드마크이름>/<제작자>/`
 
 리소스 혼합을 방지하기 위한 규칙이니 꼭 지켜주세요!
+
+제작자의 이름은 띄어쓰기 없는 영문+숫자(옵션)을 사용하시면 
 
 컬러 플래그(팀 표시 박스)의 텍스쳐 이름은 가능하다면 `color`로 해주세요
 
