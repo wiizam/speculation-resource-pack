@@ -6,11 +6,21 @@
    * git을 이용해서 pull request
    * `monun1010@gmail.com` 메일로 json파일과 texture 파일 전송
 
-모델이 채택된 제작자분께는 해당 콘텐츠에 크레딧을 남겨드립니다.
+## 규칙
+* 기업과 직접 관련된 랜드마크 금지
+* 모델의 박스 40개 이하
+* 모델 파일 경로 `assets/minecraft/models/item/<랜드마크이름>/__landmark.json`
+* 텍스쳐 경로 `assets/minecraft/models/item/<랜드마크이름>/__landmark.json`
 
-랜드마크는 색상별로 전부 만들 필요는 없습니다
+리소스 혼합을 방지하기 위한 규칙이니 꼭 지켜주세요!
 
-사람이 쉽게 색상을 인식할 수 있는 위치에 콘크리트 블록 텍스쳐를 사용하면됩니다.
+컬러 플래그(팀 표시 박스)의 텍스쳐 이름은 가능하다면 `color`로 해주세요
+
+마인크래프트 리소스와 매핑은 추후 이뤄질 예정입니다
+
+모델을 색상별로 나누실 필요 없어요!
+
+채택된 제작자분께는 해당 콘텐츠에 크레딧을 남겨드립니다.
 
 ## 지역목록 (일부 제외 가능성 있음)
 * [봉화군](https://github.com/monun/speculation-resource-pack/blob/main/assets/minecraft/models/item/bonghwa.json) - 각별
@@ -37,4 +47,3 @@
 * 인천시
 * 광주시
 * [서울시](https://github.com/monun/speculation-resource-pack/blob/main/assets/minecraft/models/item/the_blue_house.json) - obinox
-* 포항시 - dytroInc
