@@ -10,7 +10,7 @@
 * 기업과 직접 관련된 랜드마크 금지
 * 모델의 박스 40개 이하
 * 모델 파일 경로 `assets/minecraft/models/item/<랜드마크이름>/__landmark.json`
-* 텍스쳐 경로 `assets/minecraft/models/item/<랜드마크이름>/__landmark.json`
+* 텍스쳐 경로 `assets/minecraft/models/item/<랜드마크이름>/`
 
 리소스 혼합을 방지하기 위한 규칙이니 꼭 지켜주세요!
 
