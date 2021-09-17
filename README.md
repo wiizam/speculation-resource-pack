@@ -15,7 +15,7 @@
 ## 지역목록 (일부 제외 가능성 있음)
 * [봉화군](https://github.com/monun/speculation-resource-pack/blob/main/assets/minecraft/models/item/bonghwa.json) - 각별
 * 임실군
-* 영덕군
+* 영덕군 - sgkill6
 * 의성군
 * 예천군
 * 안동시
