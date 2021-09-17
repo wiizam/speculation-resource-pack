@@ -1,38 +1,32 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "minecraft:item/red_dye"
+    "layer0": "minecraft:item/magenta_dye"
   },
   "overrides": [
     {
       "predicate": {
         "custom_model_data": 1
       },
-      "model": "item/red_villa"
+      "model": "item/magenta_villa"
     },
     {
       "predicate": {
         "custom_model_data": 2
       },
-      "model": "item/red_building"
+      "model": "item/magenta_building"
     },
     {
       "predicate": {
         "custom_model_data": 3
       },
-      "model": "item/red_hotel"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 4
-      },
-      "model": "item/bonghwa"
+      "model": "item/magenta_hotel"
     },
     {
       "predicate": {
         "custom_model_data": 5
       },
-      "model": "item/red_posco"
+      "model": "item/magenta_posco"
     }
   ]
 }
