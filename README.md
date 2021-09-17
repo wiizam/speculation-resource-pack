@@ -19,11 +19,11 @@
 * 의성군
 * 예천군
 * 안동시
-* 횡성군
+* [횡성군](https://github.com/monun/speculation-resource-pack/blob/1d8e6709a316528e6830c2b25978be9c887de0bf/assets/minecraft/models/item/white_golden_cow.json) - sgkill6
 * 평창군
 * 보령시
 * 강화군
-* 동해시
+* [동해시](https://github.com/monun/speculation-resource-pack/blob/main/assets/minecraft/models/item/eastsea.json) - zlfn
 * 속초시
 * 태백시
 * 나주시
@@ -36,5 +36,5 @@
 * 대전시
 * 인천시
 * 광주시
-* 서울시
+* [서울시](https://github.com/monun/speculation-resource-pack/blob/main/assets/minecraft/models/item/the_blue_house.json) - obinox
 * 포항시 - dytroInc
