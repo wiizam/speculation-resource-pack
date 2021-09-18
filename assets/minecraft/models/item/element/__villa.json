@@ -2,7 +2,7 @@
 	"__comment": "Designed by Heptagram with Cubik Studio - https://cubik.studio",
 	"textures": {
 		"color": "minecraft:block/red_concrete",
-		"villa_wall": "item/villa_wall"
+		"villa_wall": "item/element/villa_wall"
 	},
 	"elements": [ 	 
 		{

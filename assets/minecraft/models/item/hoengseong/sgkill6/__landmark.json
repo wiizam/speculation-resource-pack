@@ -1,14 +1,13 @@
 {
 	"credit": "Made with Blockbench",
-	"parent": "minecraft:block/gold_block",
 	"textures": {
-		"10": "block/white_concrete",
-		"12": "item/hoengseong/img",
-		"18": "item/hoengseong/color",
-		"2_0": "block/polished_blackstone_bricks",
-		"2_1": "item/hoengseong/gold",
-		"2_7": "block/gold_block",
-		"2_13": "item/hoengseong/Hoengseong"
+		"10": "minecraft:block/white_concrete",
+		"12": "item/hoengseong/sgkill6/img",
+		"18": "item/hoengseong/sgkill6/color",
+		"2_0": "minecraft:block/polished_blackstone_bricks",
+		"2_1": "item/hoengseong/sgkill6/gold",
+		"2_7": "minecraft:block/gold_block",
+		"2_13": "item/hoengseong/sgkill6/Hoengseong"
 	},
 	"elements": [
 		{

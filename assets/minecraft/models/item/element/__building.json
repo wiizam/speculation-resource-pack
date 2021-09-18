@@ -3,7 +3,7 @@
 	"textures": {
 		"color": "minecraft:block/red_concrete",
 		"foundation": "minecraft:block/white_terracotta",
-		"building_wall": "item/building_wall"
+		"building_wall": "item/element/building_wall"
 	},
 	"elements": [ 	 
 		{

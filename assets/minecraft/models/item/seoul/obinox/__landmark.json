@@ -2,9 +2,9 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [128, 128],
 	"textures": {
-		"particle": "item/the_blue_house",
-		"bluehouse": "item/the_blue_house",
-		"color": "block/white_concrete"
+		"color": "minecraft:block/red_concrete",
+		"particle": "item/seoul/obinox/the_blue_house",
+		"bluehouse": "item/seoul/obinox/the_blue_house"
 	},
 	"elements": [
 		{

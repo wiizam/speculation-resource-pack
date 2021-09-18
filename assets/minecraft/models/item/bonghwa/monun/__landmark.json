@@ -1,8 +1,8 @@
 {
 	"__comment": "Designed by Heptagram with Cubik Studio - https://cubik.studio",
 	"textures": {
-		"bonghwa": "item/bonghwa/bonghwa",
-		"color": "minecraft:block/red_concrete"
+		"color": "minecraft:block/red_concrete",
+		"bonghwa": "item/bonghwa/monun/bonghwa"
 	},
 	"elements": [ 	 
 		{

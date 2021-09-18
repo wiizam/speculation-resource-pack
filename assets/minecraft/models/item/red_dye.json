@@ -26,7 +26,37 @@
         "predicate": {
           "custom_model_data": 4
         },
-        "model": "item/donghae/__landmark"
+        "model": "item/bonghwa/monun/__landmark"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 5
+        },
+        "model": "item/donghae/zlfn/__landmark"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 6
+        },
+        "model": "item/homigot/dytro/__landmark"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 7
+        },
+        "model": "item/busan/piese1028/__landmark"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 8
+        },
+        "model": "item/seoul/obinox/__landmark"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 9
+        },
+        "model": "item/hoengseong/sgkill6/__landmark"
       }
     ]
   }

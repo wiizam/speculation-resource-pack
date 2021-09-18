@@ -1,13 +1,13 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"1": "item/busan/busan_daribadak",
-		"3": "item/busan/busan_doro",
-		"5": "item/busan/busan_cable",
-		"6": "item/busan/busan_ocean",
-		"7": "item/busan/busan_handrail",
-		"8": "item/busan/busan_connect",
-		"particle": "item/busan/busan_ocean",
+		"1": "item/busan/piese1028/busan_daribadak",
+		"3": "item/busan/piese1028/busan_doro",
+		"5": "item/busan/piese1028/busan_cable",
+		"6": "item/busan/piese1028/busan_ocean",
+		"7": "item/busan/piese1028/busan_handrail",
+		"8": "item/busan/piese1028/busan_connect",
+		"particle": "item/busan/piese1028/busan_ocean",
 		"color": "block/white_concrete"
 	},
 	"elements": [
