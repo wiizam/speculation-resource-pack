@@ -4,7 +4,8 @@
 		"0": "block/yellow_concrete_powder",
 		"1": "block/lime_concrete_powder",
 		"2": "item/imsil/app6460/glass",
-		"3": "item/imsil/app6460/color"
+		"3": "item/imsil/app6460/color",
+		"4": "item/imsil/app6460/imsil"
 	},
 	"elements": [
 		{
@@ -17,6 +18,18 @@
 				"west": {"uv": [7, 0.75, 11, 1], "texture": "#1"},
 				"up": {"uv": [7, 4, 0, 0], "texture": "#1"},
 				"down": {"uv": [7, 4, 0, 8], "texture": "#1"}
+			}
+		},
+		{
+			"from": [3, 1, 0],
+			"to": [9, 3, 1],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#4"},
+				"east": {"uv": [0, 0, 1, 2], "texture": "#3"},
+				"south": {"uv": [0, 0, 13.86622, 12.33531], "texture": "#3"},
+				"west": {"uv": [0, 0, 10.22862, 12.28789], "texture": "#3"},
+				"up": {"uv": [0, 0, 13.73074, 13.90686], "texture": "#3"},
+				"down": {"uv": [0, 0, 10.31668, 12.24725], "texture": "#missing"}
 			}
 		},
 		{
@@ -543,7 +556,14 @@
 			"name": "ground",
 			"origin": [0, 0, 0],
 			"color": 0,
-			"children": [0]
+			"children": [0,
+				{
+					"name": "imsil",
+					"origin": [0, 0, 0],
+					"color": 0,
+					"children": [1]
+				}
+			]
 		},
 		{
 			"name": "cheese",
@@ -554,8 +574,8 @@
 					"name": "hole",
 					"origin": [0, 0, 0],
 					"color": 0,
-					"children": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14]
-				}, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31]
+					"children": [2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+				}, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32]
 		},
 		{
 			"name": "slice",
@@ -566,8 +586,8 @@
 					"name": "hole",
 					"origin": [8, 8, 8],
 					"color": 0,
-					"children": [32, 33, 34, 35]
-				}, 36, 37, 38]
+					"children": [33, 34, 35, 36]
+				}, 37, 38, 39]
 		}
 	]
 }
