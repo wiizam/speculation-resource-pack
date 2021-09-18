@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"0": "block/andesite",
-		"1": "block/blue_concrete",
+		"color": "block/blue_concrete",
 		"particle": "block/andesite"
 	},
 	"elements": [
