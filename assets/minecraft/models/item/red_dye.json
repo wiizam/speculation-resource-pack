@@ -38,7 +38,7 @@
         "predicate": {
           "custom_model_data": 6
         },
-        "model": "item/homigot/dytro/__landmark"
+        "model": "item/pohang/dytro/__landmark"
       },
       {
         "predicate": {
@@ -57,6 +57,18 @@
           "custom_model_data": 9
         },
         "model": "item/hoengseong/sgkill6/__landmark"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 10
+        },
+        "model": "item/yecheon/pingu3628/__landmark"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 11
+        },
+        "model": "item/ganghwa/hgnb0508/__landmark"
       }
     ]
   }

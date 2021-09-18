@@ -1,13 +1,13 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "item/ganghwa/HGNB0508/GANGHWA-JANDYEE",
-		"1": "item/ganghwa/HGNB0508/logo",
-		"2": "item/ganghwa/HGNB0508/BROWN",
+		"0": "item/ganghwa/hgnb0508/ganghwa-jandyee",
+		"1": "item/ganghwa/hgnb0508/logo",
+		"2": "item/ganghwa/hgnb0508/brown",
 		"3": "minecraft:block/stone",
-		"4": "item/ganghwa/HGNB0508/eye",
+		"4": "item/ganghwa/hgnb0508/eye",
 		"5": "minecraft:block/white_concrete",
-		"particle": "item/ganghwa/HGNB0508/GANGHWA-JANDYEE"
+		"particle": "item/ganghwa/hgnb0508/ganghwa-jandyee"
 	},
 	"elements": [
 		{
