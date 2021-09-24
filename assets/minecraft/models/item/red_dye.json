@@ -26,31 +26,31 @@
         "predicate": {
           "custom_model_data": 4
         },
-        "model": "item/bonghwa/monun/__landmark"
+        "model": "item/andong/degree2121/__landmark"
       },
       {
         "predicate": {
           "custom_model_data": 5
         },
-        "model": "item/donghae/zlfn/__landmark"
+        "model": "item/bonghwa/monun/__landmark"
       },
       {
         "predicate": {
           "custom_model_data": 6
         },
-        "model": "item/pohang/dytro/__landmark"
+        "model": "item/busan/piese1028/__landmark"
       },
       {
         "predicate": {
           "custom_model_data": 7
         },
-        "model": "item/busan/piese1028/__landmark"
+        "model": "item/donghae/zlfn/__landmark"
       },
       {
         "predicate": {
           "custom_model_data": 8
         },
-        "model": "item/seoul/obinox/__landmark"
+        "model": "item/ganghwa/hgnb0508/__landmark"
       },
       {
         "predicate": {
@@ -62,13 +62,79 @@
         "predicate": {
           "custom_model_data": 10
         },
-        "model": "item/yecheon/pingu3628/__landmark"
+        "model": "item/imsil/app6460/__landmark"
       },
       {
         "predicate": {
           "custom_model_data": 11
         },
-        "model": "item/ganghwa/hgnb0508/__landmark"
+        "model": "item/incheon/degree2121/__landmark"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 12
+        },
+        "model": "item/pohang/dytro/__landmark"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 13
+        },
+        "model": "item/seoul/obinox/__landmark"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 14
+        },
+        "model": "item/taebaek/degree2121/__landmark"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 15
+        },
+        "model": "item/yecheon/pingu3628/__landmark"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 16
+        },
+        "model": "item/jeju/menil/__landmark"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 17
+        },
+        "model": "item/dangjin/pingu3628/__landmark"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 18
+        },
+        "model": "item/gyeongju/chaehee/__landmark"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 19
+        },
+        "model": "item/dangjin/kde0607/__landmark"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 20
+        },
+        "model": "item/dangjin/msg94/__landmark"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 21
+        },
+        "model": "item/gimpo/pparru/__landmark"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 22
+        },
+        "model": "item/sejong/degree2121/__landmark"
       }
     ]
   }
