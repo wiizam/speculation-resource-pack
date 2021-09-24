@@ -141,6 +141,12 @@
           "custom_model_data": 23
         },
         "model": "item/naju/pingu3628/__landmark"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 24
+        },
+        "model": "item/naju/degree2121/__landmark"
       }
     ]
   }

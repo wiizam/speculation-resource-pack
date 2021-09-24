@@ -7,8 +7,8 @@
 		"2": "item/naju/degree2121/stripped_oak_log",
 		"3": "item/naju/degree2121/dark_oak_planks",
 		"5": "item/naju/degree2121/out_wall_1",
-		"particle": "item/naju/block/texture",
-		"color": "item/naju/degree2121/white_concrete"
+		"particle": "item/naju/degree2121/block/texture",
+		"color": "minecraft:block/red_concrete"
 	},
 	"elements": [
 		{
