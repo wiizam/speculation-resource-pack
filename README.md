@@ -43,7 +43,7 @@
 * 속초시
 * 태백시 - degree2121
 * 나주시
-* 경주시 - chaehee
+* 경주시 - jjoa
 * 춘천시
 * 당진시 - kde0607, msg94, pingu3628
 * 김포시 - pparru
