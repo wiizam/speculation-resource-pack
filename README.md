@@ -45,7 +45,7 @@
 * 나주시
 * 경주시 - jjoa
 * 춘천시
-* 당진시 - kde0607, msg94, pingu3628
+* 당진시 - kde0607, msg94, pingu3628, piese1028
 * 김포시 - pparru
 * 세종시 - degree2121
 * 부산시 - piese1028
