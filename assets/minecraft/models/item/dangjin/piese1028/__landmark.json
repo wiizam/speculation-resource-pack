@@ -4,7 +4,8 @@
 	"textures": {
 		"0": "block/water_flow",
 		"1": "block/sand",
-		"3": "item/dangjin/piese1028/dangjin_face"
+		"3": "item/dangjin/piese1028/dangjin_face",
+		"color": "block/red_concrete"
 	},
 	"elements": [
 		{
@@ -16,9 +17,9 @@
 				"north": {"uv": [0.05111, 8.43271, 16, 16], "rotation": 270, "texture": "#0"},
 				"east": {"uv": [0, 9.03237, 16, 10.53237], "rotation": 180, "texture": "#0"},
 				"south": {"uv": [0.05111, 8.42249, 16, 16], "rotation": 90, "texture": "#0"},
-				"west": {"uv": [0.05112, 15.02875, 16, 16], "texture": "#0"},
-				"up": {"uv": [0, 8.36116, 16, 16], "rotation": 90, "texture": "#missing"},
-				"down": {"uv": [0, 0, 16, 16], "texture": "#0"}
+				"west": {"uv": [0.05112, 15.02875, 16, 16], "texture": "#color"},
+				"up": {"uv": [0, 8.36116, 16, 16], "rotation": 90, "texture": "#color"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#color"}
 			}
 		},
 		{
