@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"1": "namoback/sockcho",
-		"particle": "item/sockcho"
+		"1": "item/sokcho/chojinwoo/sockcho",
+		"particle": "item/sokcho/chojinwoo/sockcho"
 	},
 	"elements": [
 		{

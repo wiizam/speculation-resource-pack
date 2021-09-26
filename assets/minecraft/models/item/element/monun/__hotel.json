@@ -3,7 +3,7 @@
 	"textures": {
 		"color": "minecraft:block/red_concrete",
 		"foundation": "minecraft:block/white_terracotta",
-		"hotel_wall": "item/element/hotel_wall"
+		"hotel_wall": "item/element/monun/hotel_wall"
 	},
 	"elements": [ 	 
 		{

@@ -2,13 +2,13 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "block/top",
-		"1": "block/texture2",
-		"2": "block/texture3",
-		"3": "block/texture",
-		"4": "block/building",
-		"5": "block/logo",
-		"particle": "block/top"
+		"0": "item/pyeongchang/irving_braxiatel/top",
+		"1": "item/pyeongchang/irving_braxiatel/texture2",
+		"2": "item/pyeongchang/irving_braxiatel/texture3",
+		"3": "item/pyeongchang/irving_braxiatel/texture",
+		"4": "item/pyeongchang/irving_braxiatel/building",
+		"5": "item/pyeongchang/irving_braxiatel/logo",
+		"particle": "item/pyeongchang/irving_braxiatel/top"
 	},
 	"elements": [
 		{

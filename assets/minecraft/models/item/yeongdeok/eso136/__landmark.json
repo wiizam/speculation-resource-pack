@@ -1,12 +1,12 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"1": "block/eyes",
-		"2": "block/legs",
-		"3": "block/mouth",
-		"4": "block/back",
-		"5": "block/color",
-		"particle": "block/eyes"
+		"1": "item/yeongdeok/eso136/eyes",
+		"2": "item/yeongdeok/eso136/legs",
+		"3": "item/yeongdeok/eso136/mouth",
+		"4": "item/yeongdeok/eso136/back",
+		"5": "item/yeongdeok/eso136/color",
+		"particle": "item/yeongdeok/eso136/eyes"
 	},
 	"elements": [
 		{

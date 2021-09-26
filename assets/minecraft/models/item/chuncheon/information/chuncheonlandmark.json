@@ -1,16 +1,16 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"1": "item/texture2",
-		"2": "item/texture3",
-		"3": "item/texture4",
-		"4": "item/texture5",
-		"5": "item/texture6",
-		"7": "item/texture8",
-		"8": "item/texture9",
-		"9": "item/texture10",
-		"10": "item/texture11",
-		"particle": "item/texture1"
+		"1": "item/chuncheon/information/texture2",
+		"2": "item/chuncheon/information/texture3",
+		"3": "item/chuncheon/information/texture4",
+		"4": "item/chuncheon/information/texture5",
+		"5": "item/chuncheon/information/texture6",
+		"7": "item/chuncheon/information/texture8",
+		"8": "item/chuncheon/information/texture9",
+		"9": "item/chuncheon/information/texture10",
+		"10": "item/chuncheon/information/texture11",
+		"particle": "item/chuncheon/information/texture1"
 	},
 	"elements": [
 		{

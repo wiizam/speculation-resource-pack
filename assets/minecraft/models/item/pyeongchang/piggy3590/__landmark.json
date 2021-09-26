@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "Desktop/p",
-		"particle": "Desktop/p"
+		"0": "item/pyeongchang/piggy3590/p",
+		"particle": "item/pyeongchang/piggy3590/p"
 	},
 	"elements": [
 		{
