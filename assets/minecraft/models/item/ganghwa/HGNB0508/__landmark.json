@@ -3,9 +3,9 @@
 	"textures": {
 		"0": "item/ganghwa/hgnb0508/ganghwa-jandyee",
 		"1": "item/ganghwa/hgnb0508/logo",
-		"3": "block/stone",
+		"3": "minecraft:block/stone",
 		"4": "item/ganghwa/hgnb0508/eye",
-		"color": "minecraft:block/white_concrete"
+		"color": "minecraft:block/white_concrete",
 		"particle": "item/ganghwa/hgnb0508/ganghwa-jandyee"
 	},
 	"elements": [
@@ -121,7 +121,7 @@
 				"north": {"uv": [0, 0, 1, 6], "texture": "color"},
 				"east": {"uv": [0, 0, 2, 6], "texture": "color"},
 				"south": {"uv": [0, 0, 1, 6], "texture": "color"},
-				"west": {"uv": [0, 0, 2, 6], "texture": "#6"},
+				"west": {"uv": [0, 0, 2, 6], "texture": "color"},
 				"up": {"uv": [0, 0, 1, 2], "texture": "color"},
 				"down": {"uv": [0, 0, 1, 2], "texture": "color"}
 			}
