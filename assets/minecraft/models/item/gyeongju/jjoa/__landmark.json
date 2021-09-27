@@ -1,7 +1,7 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "minecraft:block/water_flow",
+		"0": "item/gyeongju/jjoa/water_flow1",
 		"1": "minecraft:block/stone",
 		"2": "minecraft:block/grass_block_top",
 		"3": "minecraft:block/oak_leaves",
@@ -11,8 +11,7 @@
 		"7": "minecraft:block/terracotta",
 		"8": "minecraft:block/warped_planks",
 		"9": "minecraft:block/cracked_deepslate_tiles",
-		"color": "minecraft:block/red_concrete",
-		"particle": "minecraft:block/water_flow"
+		"color": "minecraft:block/red_concrete"
 	},
 	"elements": [
 		{
