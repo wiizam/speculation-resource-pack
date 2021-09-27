@@ -164,89 +164,95 @@
       "predicate": {
         "custom_model_data": 27
       },
-      "model": "item/naju/pingu3628/__landmark"
+      "model": "item/naju/moon0907/__landmark"
     },
     {
       "predicate": {
         "custom_model_data": 28
       },
-      "model": "item/pohang/dytro/__landmark"
+      "model": "item/naju/pingu3628/__landmark"
     },
     {
       "predicate": {
         "custom_model_data": 29
       },
-      "model": "item/pyeongchang/implan/__landmark"
+      "model": "item/pohang/dytro/__landmark"
     },
     {
       "predicate": {
         "custom_model_data": 30
       },
-      "model": "item/pyeongchang/irving_braxiatel/__landmark"
+      "model": "item/pyeongchang/implan/__landmark"
     },
     {
       "predicate": {
         "custom_model_data": 31
       },
-      "model": "item/pyeongchang/piggy3590/__landmark"
+      "model": "item/pyeongchang/irving_braxiatel/__landmark"
     },
     {
       "predicate": {
         "custom_model_data": 32
       },
-      "model": "item/sejong/degree2121/__landmark"
+      "model": "item/pyeongchang/piggy3590/__landmark"
     },
     {
       "predicate": {
         "custom_model_data": 33
       },
-      "model": "item/seoul/megat88/__landmark"
+      "model": "item/sejong/degree2121/__landmark"
     },
     {
       "predicate": {
         "custom_model_data": 34
       },
-      "model": "item/seoul/obinox/__landmark"
+      "model": "item/seoul/megat88/__landmark"
     },
     {
       "predicate": {
         "custom_model_data": 35
       },
-      "model": "item/sokcho/chojinwoo/__landmark"
+      "model": "item/seoul/obinox/__landmark"
     },
     {
       "predicate": {
         "custom_model_data": 36
       },
-      "model": "item/taebaek/degree2121/__landmark"
+      "model": "item/sokcho/chojinwoo/__landmark"
     },
     {
       "predicate": {
         "custom_model_data": 37
       },
-      "model": "item/uiseong/alexjang/__landmark"
+      "model": "item/taebaek/degree2121/__landmark"
     },
     {
       "predicate": {
         "custom_model_data": 38
       },
-      "model": "item/yecheon/pingu3628/__landmark"
+      "model": "item/uiseong/alexjang/__landmark"
     },
     {
       "predicate": {
         "custom_model_data": 39
       },
-      "model": "item/yeongdeok/adg/__landmark"
+      "model": "item/yecheon/pingu3628/__landmark"
     },
     {
       "predicate": {
         "custom_model_data": 40
       },
-      "model": "item/yeongdeok/eso136/__landmark"
+      "model": "item/yeongdeok/adg/__landmark"
     },
     {
       "predicate": {
         "custom_model_data": 41
+      },
+      "model": "item/yeongdeok/eso136/__landmark"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 42
       },
       "model": "item/yeongdeok/mdjoon/__landmark"
     }
