@@ -255,6 +255,12 @@
         "custom_model_data": 42
       },
       "model": "item/yeongdeok/mdjoon/__landmark"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 43
+      },
+      "model": "item/sokcho/coroskai/__landmark"
     }
   ]
 }
