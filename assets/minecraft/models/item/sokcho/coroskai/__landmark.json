@@ -1,5 +1,6 @@
 {
 	"credit": "Made with Blockbench",
+	"texture_size": [1, 3],
 	"textures": {
 		"6": "item/sokcho/coroskai/plane_texture3",
 		"10": "item/sokcho/coroskai/plane_texture7",
@@ -493,5 +494,11 @@
 				"down": {"uv": [0, 0, 16, 16], "texture": "#color"}
 			}
 		}
-	]
+	],
+	"display": {
+		"fixed": {
+			"rotation": [-90, 0, 0],
+			"translation": [0, 0, -9.75]
+		}
+	}
 }
