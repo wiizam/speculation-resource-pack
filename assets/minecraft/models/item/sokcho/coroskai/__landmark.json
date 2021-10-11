@@ -22,7 +22,7 @@
 		"30": "item/sokcho/coroskai/white",
 		"32": "item/sokcho/coroskai/leg_texture3",
 		"33": "item/sokcho/coroskai/leg_texture4",
-		"color": "item/sokcho/coroskai/white_concrete"
+		"color": "minecraft:block/red_concrete"
 	},
 	"elements": [
 		{
