@@ -1,0 +1,266 @@
+
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/red_dye"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 1
+      },
+      "model": "item/andong/degree2121/__landmark"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2
+      },
+      "model": "item/bonghwa/monun/__landmark"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 3
+      },
+      "model": "item/busan/ghkdgnl/__landmark"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 4
+      },
+      "model": "item/busan/piese1028/__landmark"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 5
+      },
+      "model": "item/chuncheon/information/chuncheonlandmark"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 6
+      },
+      "model": "item/daejeon/cheonanstn/__landmark"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 7
+      },
+      "model": "item/dangjin/kde0607/__landmark"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8
+      },
+      "model": "item/dangjin/msg94/__landmark"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9
+      },
+      "model": "item/dangjin/piese1028/__landmark"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10
+      },
+      "model": "item/dangjin/pingu3628/__landmark"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 11
+      },
+      "model": "item/donghae/zlfn/__landmark"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 12
+      },
+      "model": "item/element/adfgdfg/__building"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 13
+      },
+      "model": "item/element/adfgdfg/__hotel"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 14
+      },
+      "model": "item/element/adfgdfg/__villa"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 15
+      },
+      "model": "item/element/monun/__building"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 16
+      },
+      "model": "item/element/monun/__hotel"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 17
+      },
+      "model": "item/element/monun/__villa"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 18
+      },
+      "model": "item/ganghwa/hgnb0508/__landmark"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 19
+      },
+      "model": "item/gimpo/pparru/__landmark"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20
+      },
+      "model": "item/gyeongju/jjoa/__landmark"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 21
+      },
+      "model": "item/hoengseong/sgkill6/__landmark"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 22
+      },
+      "model": "item/imsil/app6460/__landmark"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 23
+      },
+      "model": "item/incheon/degree2121/__landmark"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 24
+      },
+      "model": "item/incheon/ikohistory/__landmark"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 25
+      },
+      "model": "item/jeju/menil/__landmark"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 26
+      },
+      "model": "item/naju/degree2121/__landmark"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 27
+      },
+      "model": "item/naju/moon0907/__landmark"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 28
+      },
+      "model": "item/naju/pingu3628/__landmark"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 29
+      },
+      "model": "item/pohang/dytro/__landmark"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30
+      },
+      "model": "item/pyeongchang/implan/__landmark"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 31
+      },
+      "model": "item/pyeongchang/irving_braxiatel/__landmark"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 32
+      },
+      "model": "item/pyeongchang/piggy3590/__landmark"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 33
+      },
+      "model": "item/sejong/degree2121/__landmark"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 34
+      },
+      "model": "item/seoul/megat88/__landmark"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 35
+      },
+      "model": "item/seoul/obinox/__landmark"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 36
+      },
+      "model": "item/sokcho/chojinwoo/__landmark"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37
+      },
+      "model": "item/taebaek/degree2121/__landmark"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 38
+      },
+      "model": "item/uiseong/alexjang/__landmark"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 39
+      },
+      "model": "item/yecheon/pingu3628/__landmark"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 40
+      },
+      "model": "item/yeongdeok/adg/__landmark"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 41
+      },
+      "model": "item/yeongdeok/eso136/__landmark"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 42
+      },
+      "model": "item/yeongdeok/mdjoon/__landmark"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 43
+      }
+    }
+  ]
+}
