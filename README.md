@@ -29,7 +29,7 @@
 
 채택된 제작자분께는 해당 콘텐츠에 크레딧을 남겨드립니다.
 
-## 지역목록 (일부 제외 가능성 있음)
+## 지역목록 (확정은 볼드로 표시)
 
 * 기본 건축물 - `adfgdfg` `monun`
 * 시작 -
@@ -41,7 +41,7 @@
   ---
  
 * 안동 - `dfgdfg` `degree2121`
-* 봉화 - `monun`
+* **봉화** - `monun`
 * 보령 - `traloc_dheckoa`
 * 부산 - `ghkdgnl` `piese1028`
 * 창원 - `ikmyung`
@@ -56,7 +56,7 @@
 * 횡성 - `adfgdfg` `sgkill6`
 * 임실 - `app6460`
 * 인천 - `degree2121` `ikohistory`
-* 제주 - `menil`
+* **제주** - `menil`
 * 나주 - `degree2121` `moon0907` `pingu3628`
 * 포항 - `adfgdfg` `dytro`
 * 평창 - `implan` `irving_braxiatel` `jhhan611` `piggy3590`
