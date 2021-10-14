@@ -6,7 +6,7 @@
 		"3": "block/iron_block",
 		"4": "block/spruce_planks",
 		"5": "block/dark_oak_planks",
-		"7": "block/grass_block_top1",
+		"7": "block/grass_block_top",
 		"8": "block/piston_top",
 		"9": "block/oak_planks",
 		"particle": "block/color"

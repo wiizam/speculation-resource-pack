@@ -1,12 +1,12 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "item/yeongdeok/jangj1208/1",
-		"1": "item/yeongdeok/jangj1208/2",
-		"2": "item/yeongdeok/jangj1208/3",
-		"3": "item/yeongdeok/jangj1208/4",
-		"4": "item/yeongdeok/jangj1208/5",
-		"particle": "item/yeongdeok/jangj1208/1"
+		"0": "item/yeongdeok/jangj/1",
+		"1": "item/yeongdeok/jangj/2",
+		"2": "item/yeongdeok/jangj/3",
+		"3": "item/yeongdeok/jangj/4",
+		"4": "item/yeongdeok/jangj/5",
+		"particle": "item/yeongdeok/jangj/1"
 	},
 	"elements": [
 		{
@@ -454,7 +454,7 @@
 			"translation": [0, 1.75, -11.25]
 		},
 		"fixed": {
-			"rotation": [-90, -180, 0],
+			"rotation": [-90, 0, 0],
 			"translation": [0, -4.5, -32.5],
 			"scale": [4, 4, 4]
 		}

@@ -7,8 +7,9 @@
 		"4": "item/incheon/degree2121/wall_1",
 		"5": "item/incheon/degree2121/floor",
 		"6": "item/incheon/degree2121/incone",
-		"particle": "minecraft:block/white_concrete",
-		"color": "minecraft:block/white_concrete"
+		"7": "block/iron_block",
+		"particle": "block/red_concrete",
+		"color": "block/red_concrete"
 	},
 	"elements": [
 		{

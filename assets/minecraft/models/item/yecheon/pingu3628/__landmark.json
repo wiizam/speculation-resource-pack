@@ -7,9 +7,8 @@
 		"4": "item/yecheon/pingu3628/eyes",
 		"5": "item/yecheon/pingu3628/eyes2",
 		"6": "item/yecheon/pingu3628/target",
-		"color": "minecraft:block/red_concrete",
-		"8": "item/yecheon/pingu3628/yc-logo-png",
-		"particle": "item/yecheon/pingu3628/eyes2"
+		"particle": "item/yecheon/pingu3628/eyes2",
+		"color": "block/red_concrete"
 	},
 	"elements": [
 		{
@@ -21,7 +20,7 @@
 				"east": {"uv": [0, 0, 16, 5.33333], "texture": "#2"},
 				"south": {"uv": [0, 0, 16, 5.33333], "texture": "#2"},
 				"west": {"uv": [0, 0, 16, 5.33333], "texture": "#2"},
-				"up": {"uv": [0, 0, 16, 16], "texture": "#8"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#missing"},
 				"down": {"uv": [0, 0, 16, 16], "texture": "#2"}
 			}
 		},
@@ -358,7 +357,8 @@
 		},
 		"fixed": {
 			"rotation": [-90, 0, 0],
-			"translation": [0, 0, -8.75]
+			"translation": [0, 0, -15],
+			"scale": [2, 2, 2]
 		}
 	},
 	"groups": [

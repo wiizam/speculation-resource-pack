@@ -2,9 +2,9 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"2": "item/dangjin/pingu3628/silver",
-		"color": "minecraft:block/red_concrete",
 		"5": "item/dangjin/pingu3628/sea",
-		"particle": "item/dangjin/pingu3628/silver"
+		"particle": "item/dangjin/pingu3628/silver",
+		"color": "block/red_concrete"
 	},
 	"elements": [
 		{
@@ -522,7 +522,8 @@
 		},
 		"fixed": {
 			"rotation": [-90, 0, 0],
-			"translation": [0, 0, -8.75]
+			"translation": [0, 0, -13],
+			"scale": [1.8, 1.8, 1.8]
 		}
 	},
 	"groups": [

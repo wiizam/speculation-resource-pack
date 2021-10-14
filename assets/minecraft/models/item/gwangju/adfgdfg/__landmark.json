@@ -2,7 +2,7 @@
 	"texture_size": [128, 128],
 	"textures": {
 		"0": "item/gwangju/adfgdfg/texture",
-		"color": "block/red_terracotta"
+		"color": "block/red_concrete"
 	},
 	"elements": [
 		{

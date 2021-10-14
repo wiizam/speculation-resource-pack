@@ -10,7 +10,7 @@
 		"8": "item/gimpo/pparru/airport_side",
 		"9": "item/gimpo/pparru/title",
 		"particle": "item/gimpo/pparru/title",
-		"color": "minecraft:block/red_concrete"
+		"color": "block/red_concrete"
 	},
 	"elements": [
 		{
@@ -500,7 +500,8 @@
 		},
 		"fixed": {
 			"rotation": [-90, 0, 0],
-			"translation": [0, 0, -9]
+			"translation": [0, 0, -13],
+			"scale": [1.8, 1.8, 1.8]
 		}
 	},
 	"groups": [

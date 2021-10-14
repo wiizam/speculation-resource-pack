@@ -7,7 +7,7 @@
 		"6": "item/busan/piese1028/busan_ocean",
 		"7": "item/busan/piese1028/busan_handrail",
 		"particle": "item/busan/piese1028/busan_ocean",
-		"color": "block/white_concrete"
+		"color": "block/red_concrete"
 	},
 	"elements": [
 		{

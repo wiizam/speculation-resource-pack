@@ -2,13 +2,12 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [1, 3],
 	"textures": {
-		"0": "item/naju/degree2121/texture",
+		"0": "block/water_flow",
 		"1": "item/naju/degree2121/oak_planks",
 		"2": "item/naju/degree2121/stripped_oak_log",
 		"3": "item/naju/degree2121/dark_oak_planks",
 		"5": "item/naju/degree2121/out_wall_1",
-		"particle": "item/naju/degree2121/block/texture",
-		"color": "minecraft:block/red_concrete"
+		"color": "block/red_concrete"
 	},
 	"elements": [
 		{
@@ -455,7 +454,7 @@
 	],
 	"display": {
 		"fixed": {
-			"rotation": [-90, 0, 0],
+			"rotation": [-90, -90, 0],
 			"translation": [0, 0, -15],
 			"scale": [2, 2, 2]
 		}

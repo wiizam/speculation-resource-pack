@@ -13,7 +13,6 @@
 		"10": "item/yeongdeok/tbacaf/kingcrabgrasstexture",
 		"11": "item/yeongdeok/tbacaf/kingcraborangetexture",
 		"12": "item/yeongdeok/tbacaf/kingcrabeye_steel_texture",
-		"color": "minecraft:block/red_concrete",
 		"14": "item/yeongdeok/tbacaf/kingcrableftarm",
 		"15": "item/yeongdeok/tbacaf/kingcrableftarm2",
 		"16": "item/yeongdeok/tbacaf/kingcrableftarm3",
@@ -39,7 +38,8 @@
 		"36": "item/yeongdeok/tbacaf/kingcrabrightarm6",
 		"37": "item/yeongdeok/tbacaf/kingcrabrightarm7",
 		"38": "item/yeongdeok/tbacaf/kingcrabrightarm8",
-		"39": "item/yeongdeok/tbacaf/kingcrabrightarm9"
+		"39": "item/yeongdeok/tbacaf/kingcrabrightarm9",
+		"color": "block/red_concrete"
 	},
 	"elements": [
 		{
@@ -546,7 +546,8 @@
 		},
 		"fixed": {
 			"rotation": [-90, 0, 0],
-			"translation": [0.25, 0.25, -9.5]
+			"translation": [0.25, 0.25, -17],
+			"scale": [2, 2, 2]
 		}
 	},
 	"groups": [

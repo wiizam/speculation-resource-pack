@@ -2,20 +2,20 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"1": "item/texture2",
-		"2": "item/texture3",
-		"7": "item/texture8",
-		"8": "item/texture9",
-		"9": "item/texture10",
-		"10": "item/texture11",
-		"11": "block/texture12",
-		"12": "block/texture13",
-		"13": "block/texture14",
-		"15": "block/texture16",
-		"16": "block/texture17",
-		"17": "block/texture18",
-		"18": "block/texture19",
-		"particle": "item/texture1"
+		"1": "item/chuncheon/information/texture2",
+		"2": "item/chuncheon/information/texture3",
+		"7": "item/chuncheon/information/texture8",
+		"8": "item/chuncheon/information/texture9",
+		"9": "item/chuncheon/information/texture10",
+		"10": "item/chuncheon/information/texture11",
+		"11": "item/chuncheon/information/texture12",
+		"color": "block/red_concrete",
+		"13": "item/chuncheon/information/texture14",
+		"15": "item/chuncheon/information/texture16",
+		"16": "item/chuncheon/information/texture17",
+		"17": "item/chuncheon/information/texture18",
+		"18": "item/chuncheon/information/texture19",
+		"particle": "item/chuncheon/information/texture1"
 	},
 	"elements": [
 		{
@@ -270,11 +270,11 @@
 			"to": [32, 1, 16],
 			"rotation": {"angle": 0, "axis": "y", "origin": [-16, 0, 0]},
 			"faces": {
-				"north": {"uv": [0, 0, 16, 0.5], "texture": "#12"},
-				"east": {"uv": [0, 0, 2, 0.5], "texture": "#12"},
-				"south": {"uv": [0, 0, 16, 0.5], "texture": "#12"},
+				"north": {"uv": [0, 0, 16, 0.5], "texture": "#color"},
+				"east": {"uv": [0, 0, 2, 0.5], "texture": "#color"},
+				"south": {"uv": [0, 0, 16, 0.5], "texture": "#color"},
 				"west": {"uv": [0, 0, 2, 0.5], "texture": "#missing"},
-				"up": {"uv": [0, 0, 16, 2], "texture": "#12"},
+				"up": {"uv": [0, 0, 16, 2], "texture": "#color"},
 				"down": {"uv": [0, 0, 16, 2], "texture": "#missing"}
 			}
 		},
@@ -548,9 +548,9 @@
 			"scale": [0.65, 0.65, 0.65]
 		},
 		"fixed": {
-			"rotation": [90, 0, -180],
-			"translation": [0, -0.5, -25.75],
-			"scale": [3, 3, 3]
+			"rotation": [-90, -180, 0],
+			"translation": [0, 0, -15],
+			"scale": [2, 2, 2]
 		}
 	},
 	"groups": [
