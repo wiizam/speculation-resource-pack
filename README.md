@@ -40,7 +40,7 @@
 
   ---
 
-* ✔️봉화(237) - `✔️monun`
+* ✔️봉화 - `✔️monun`
 * 영덕 - `adfgdfg` `eso136` `jangj` `mdjoon` `tbacaf`
 * 의성 - `adfgdfg` `alexjang`
 * 임실 - `app6460`
