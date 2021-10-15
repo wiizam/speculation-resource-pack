@@ -1,7 +1,6 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"color": "block/red_concrete",
 		"1": "block/quartz_block_top",
 		"3": "block/iron_block",
 		"4": "block/spruce_planks",
@@ -9,6 +8,7 @@
 		"7": "block/grass_block_top",
 		"8": "block/piston_top",
 		"9": "block/oak_planks",
+		"color": "block/red_concrete",
 		"particle": "block/color"
 	},
 	"elements": [
@@ -614,7 +614,7 @@
 	],
 	"display": {
 		"fixed": {
-			"rotation": [-90, 0, 0],
+			"rotation": [-90, -180, 0],
 			"translation": [0, 0, -15],
 			"scale": [2, 2, 2]
 		}
