@@ -1,7 +1,6 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"12": "item/hoengseong/sgkill6/img",
 		"18": "item/hoengseong/sgkill6/color",
 		"2_1": "item/hoengseong/sgkill6/gold",
 		"2_13": "item/hoengseong/sgkill6/hoengseong",
@@ -414,19 +413,6 @@
 			}
 		},
 		{
-			"from": [6, 1.5, 0],
-			"to": [11, 2.75, 1.5],
-			"rotation": {"angle": 0, "axis": "y", "origin": [0, -1, -2]},
-			"faces": {
-				"north": {"uv": [0, 0, 16, 16], "texture": "#12"},
-				"east": {"uv": [0, 0, 1.5, 2], "texture": "#12"},
-				"south": {"uv": [0, 0, 16, 2], "texture": "#12"},
-				"west": {"uv": [0, 0, 15.99323, 15.99323], "texture": "#12"},
-				"up": {"uv": [0, 0, 15.99323, 16], "rotation": 270, "texture": "#2_0"},
-				"down": {"uv": [0, 0, 1.5, 16], "rotation": 90, "texture": "#12"}
-			}
-		},
-		{
 			"from": [-3, 1.5, 0],
 			"to": [6, 2.75, 1.5],
 			"rotation": {"angle": 0, "axis": "y", "origin": [0, -1, -2]},
@@ -575,8 +561,8 @@
 		},
 		"fixed": {
 			"rotation": [-90, 0, 0],
-			"translation": [0.5, -3.25, -13.25],
-			"scale": [1.5, 1.5, 1.5]
+			"translation": [0.5, -5.75, -12],
+			"scale": [1.7, 1.7, 1.7]
 		}
 	},
 	"groups": [
@@ -704,10 +690,10 @@
 									"origin": [0, -2, 0],
 									"color": 0,
 									"children": [29]
-								}, 30, 31, 32, 33, 34, 35, 36]
+								}, 30, 31, 32, 33, 34, 35]
 						}
 					]
-				}, 37, 38, 39, 40]
+				}, 36, 37, 38, 39]
 		}
 	]
 }

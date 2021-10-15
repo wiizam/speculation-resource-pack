@@ -6,7 +6,7 @@
 		"1": "item/yeongdeok/mdjoon/pillar",
 		"2": "item/yeongdeok/mdjoon/teras",
 		"3": "item/yeongdeok/mdjoon/crab",
-		"4": "item/yeongdeok/mdjoon/under_floor",
+		"color": "block/red_concrete",
 		"particle": "item/yeongdeok/mdjoon/texture"
 	},
 	"elements": [
@@ -14,12 +14,12 @@
 			"from": [3, 0, 3],
 			"to": [13, 2, 13],
 			"faces": {
-				"north": {"uv": [2.5, 2.5, 5, 3], "texture": "#4"},
-				"east": {"uv": [0, 2.5, 2.5, 3], "texture": "#4"},
-				"south": {"uv": [7.5, 2.5, 10, 3], "texture": "#4"},
-				"west": {"uv": [5, 2.5, 7.5, 3], "texture": "#4"},
-				"up": {"uv": [5, 2.5, 2.5, 0], "texture": "#4"},
-				"down": {"uv": [7.5, 0, 5, 2.5], "texture": "#4"}
+				"north": {"uv": [2.5, 2.5, 5, 3], "texture": "#color"},
+				"east": {"uv": [0, 2.5, 2.5, 3], "texture": "#color"},
+				"south": {"uv": [7.5, 2.5, 10, 3], "texture": "#color"},
+				"west": {"uv": [5, 2.5, 7.5, 3], "texture": "#color"},
+				"up": {"uv": [5, 2.5, 2.5, 0], "texture": "#color"},
+				"down": {"uv": [7.5, 0, 5, 2.5], "texture": "#color"}
 			}
 		},
 		{
@@ -403,6 +403,13 @@
 			}
 		}
 	],
+	"display": {
+		"fixed": {
+			"rotation": [-90, 0, 0],
+			"translation": [0, 0, -31],
+			"scale": [4, 4, 4]
+		}
+	},
 	"groups": [0,
 		{
 			"name": "crab",

@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"color": "minecraft:block/red_concrete",
-		"1": "item/dangjin/kde0607/dangjinlandmark"
+		"1": "item/dangjin/kde0607/texture",
+		"color": "block/red_concrete"
 	},
 	"elements": [
 		{
@@ -488,5 +488,12 @@
 				"down": {"uv": [0, 0, 16, 1], "texture": "#1"}
 			}
 		}
-	]
+	],
+	"display": {
+		"fixed": {
+			"rotation": [-90, 0, 0],
+			"translation": [0, 0, -12],
+			"scale": [1.75, 1.75, 1.75]
+		}
+	}
 }

@@ -5,8 +5,8 @@
 		"2": "item/yeongdeok/eso136/legs",
 		"3": "item/yeongdeok/eso136/mouth",
 		"4": "item/yeongdeok/eso136/back",
-		"5": "item/yeongdeok/eso136/color",
-		"particle": "item/yeongdeok/eso136/eyes"
+		"particle": "item/yeongdeok/eso136/eyes",
+		"color": "block/red_concrete"
 	},
 	"elements": [
 		{
@@ -14,12 +14,12 @@
 			"from": [-10, 0, -2.7],
 			"to": [26, 0.8, 17.3],
 			"faces": {
-				"north": {"uv": [0, 0, 16, 0.8], "texture": "#5"},
-				"east": {"uv": [0, 0, 16, 0.8], "texture": "#5"},
-				"south": {"uv": [0, 0, 16, 0.8], "texture": "#5"},
-				"west": {"uv": [0, 0, 16, 0.8], "texture": "#5"},
-				"up": {"uv": [0, 0, 16, 16], "texture": "#5"},
-				"down": {"uv": [0, 0, 16, 16], "texture": "#5"}
+				"north": {"uv": [0, 0, 16, 0.8], "texture": "#color"},
+				"east": {"uv": [0, 0, 16, 0.8], "texture": "#color"},
+				"south": {"uv": [0, 0, 16, 0.8], "texture": "#color"},
+				"west": {"uv": [0, 0, 16, 0.8], "texture": "#color"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#color"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#color"}
 			}
 		},
 		{
@@ -423,9 +423,9 @@
 			"scale": [1.20703, 1.29883, 1.45313]
 		},
 		"fixed": {
-			"rotation": [-89.75, 0, 0],
-			"translation": [0, 0.25, -31.5],
-			"scale": [4, 3.79492, 4]
+			"rotation": [-90, 0, 0],
+			"translation": [0, 0, -19],
+			"scale": [2.5, 2.5, 2.5]
 		}
 	},
 	"groups": [0,

@@ -3,8 +3,8 @@
 	"textures": {
 		"0": "block/andesite",
 		"1": "block/water_flow",
-		"color": "block/red_concrete",
-		"particle": "block/andesite"
+		"particle": "block/andesite",
+		"color": "block/red_concrete"
 	},
 	"elements": [
 		{
@@ -432,7 +432,7 @@
 	"display": {
 		"fixed": {
 			"rotation": [-90, 0, 0],
-			"translation": [0, 0, -16],
+			"translation": [0, 0, -15],
 			"scale": [2, 2, 2]
 		}
 	},

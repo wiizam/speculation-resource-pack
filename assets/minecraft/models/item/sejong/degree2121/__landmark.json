@@ -7,7 +7,7 @@
 		"3": "item/sejong/degree2121/glass_1",
 		"4": "item/sejong/degree2121/top_1",
 		"particle": "item/sejong/degree2121/floor1",
-		"color": "minecraft:block/white_concrete"
+		"color": "block/white_concrete"
 	},
 	"elements": [
 		{
@@ -283,6 +283,13 @@
 			}
 		}
 	],
+	"display": {
+		"fixed": {
+			"rotation": [-90, 0, 0],
+			"translation": [0, 0, -11],
+			"scale": [1.5, 1.5, 1.5]
+		}
+	},
 	"groups": [
 		{
 			"name": "group",

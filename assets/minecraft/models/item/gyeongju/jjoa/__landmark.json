@@ -2,16 +2,16 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"0": "item/gyeongju/jjoa/water_flow1",
-		"1": "minecraft:block/stone",
-		"2": "minecraft:block/grass_block_top",
-		"3": "minecraft:block/oak_leaves",
-		"4": "minecraft:block/oak_log",
-		"5": "minecraft:block/stripped_oak_log",
-		"6": "minecraft:block/birch_planks",
-		"7": "minecraft:block/terracotta",
-		"8": "minecraft:block/warped_planks",
-		"9": "minecraft:block/cracked_deepslate_tiles",
-		"color": "minecraft:block/red_concrete"
+		"1": "block/stone",
+		"2": "block/grass_block_top",
+		"3": "block/oak_leaves",
+		"4": "block/oak_log",
+		"5": "block/stripped_oak_log",
+		"6": "block/birch_planks",
+		"7": "block/terracotta",
+		"8": "block/warped_planks",
+		"9": "block/cracked_deepslate_tiles",
+		"color": "block/red_concrete"
 	},
 	"elements": [
 		{
@@ -429,7 +429,8 @@
 		},
 		"fixed": {
 			"rotation": [-90, 0, 0],
-			"translation": [0, 0, -7]
+			"translation": [0, 0, -15],
+			"scale": [2, 2, 2]
 		}
 	},
 	"groups": [

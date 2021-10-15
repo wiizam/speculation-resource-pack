@@ -1,12 +1,11 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"1": "minecraft:block/gray_concrete",
-		"3": "minecraft:block/lime_concrete",
-		"4": "minecraft:block/white_concrete",
-		"5": "minecraft:block/light_gray_concrete",
-		"particle": "minecraft:block/light_blue_concrete",
-		"color": "minecraft:block/red_concrete"
+		"1": "block/gray_concrete",
+		"3": "block/lime_concrete",
+		"4": "block/white_concrete",
+		"5": "block/light_gray_concrete",
+		"color": "block/red_concrete"
 	},
 	"elements": [
 		{
@@ -480,7 +479,8 @@
 	"display": {
 		"fixed": {
 			"rotation": [-90, -180, 0],
-			"translation": [0, 0, -8.5]
+			"translation": [0, 0, -31],
+			"scale": [4, 4, 4]
 		}
 	},
 	"groups": [
